@@ -10,9 +10,14 @@
   },
   "dependencies": {
     "expo": "~49.0.5",
+    "expo-background-fetch": "~11.3.0",
+    "expo-camera": "~13.4.2",
+    "expo-notifications": "~0.20.1",
     "expo-status-bar": "~1.6.0",
     "react": "18.2.0",
-    "react-native": "0.72.3"
+    "react-native": "0.72.3",
+    "react-native-camera": "^4.2.1",
+    "socket.io-client": "^4.7.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
